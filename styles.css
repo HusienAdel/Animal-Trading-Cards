@@ -100,7 +100,7 @@ body {
 }
 
 .container {
-   width: 30%;
+   width: 385px;
    border: 1px solid #ccc;
    padding: 15px 15px;
    margin: 15px auto;
@@ -152,4 +152,5 @@ body {
 
 .container p {
    line-height: 1.5;
+   text-align: justify;
 }
